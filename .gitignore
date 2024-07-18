@@ -1,0 +1,17 @@
+# Node modules
+/node_modules
+
+# Environment variables
+.env
+
+# IDE files (Visual Studio Code)
+.vscode
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+/pnpm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
